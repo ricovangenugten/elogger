@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc elogger.c -o elogger -I/usr/include/postgresql -lpq -lwiringPi
